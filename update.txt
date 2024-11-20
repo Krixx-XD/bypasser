@@ -1,0 +1,1 @@
+{"ver":1.61, link:"https://raw.githubusercontent.com/Krixx-XD/bypasser/refs/heads/main/prax.lua", "md5":"e775f9bd7716bc9009ea143e709f890b"}
